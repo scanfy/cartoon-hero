@@ -1,0 +1,27 @@
+	body{
+		background-color: pink
+	}
+	
+	h1{
+		font-size: 30px;
+		color: #40c0c0;
+	}
+	h2{
+		color: #f1564e;
+		font-size: 20px;
+	}
+	h2{
+		color: green
+	}
+	.ciao{
+		font-size: 60px
+	}
+	.uppercase{
+		text-transform: uppercase;
+	}
+	.ciao.uppercase{
+		color: navy
+	}
+	h1 span{
+		color: violet
+	}
